@@ -1,4 +1,4 @@
-# Mediplus
+# Medicare
 
 Doctor's Appointment Booking System
 
