@@ -2,10 +2,11 @@
 
 Doctor's Appointment Booking System
 
-Its a MERN stack Project 
-I have build the frontend and the backend is on process.
+Project Overview: Clearly describe the purpose of Mediplus. For instance: "Mediplus is a web-based application designed to streamline the process of booking medical appointments, allowing patients to schedule visits with healthcare providers efficiently."​
 
-You can check out the frontend 
+Features: List the functionalities you plan to implement or have implemented, such as user authentication, appointment scheduling, doctor availability display, and patient history tracking.​
+
+Technology Stack: Specify the technologies and frameworks used. For example: "This project utilizes the MERN stack—MongoDB, Express.js, React.js, and Node.js—for full-stack development."
 
 After downloading the project file
 
